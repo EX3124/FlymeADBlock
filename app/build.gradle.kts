@@ -9,7 +9,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "xposed.hook"
+        applicationId = "io.github.ex3124.flymeadblock"
         minSdk = 24
         targetSdk = 37
         versionCode = 1
